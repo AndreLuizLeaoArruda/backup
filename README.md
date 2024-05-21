@@ -66,4 +66,4 @@ Neste tutorial você aprenderá a fazer um arquivo de lote (.bat) para proceder 
 * Abrirá uma tela com a guia Geral. Lembra que para executar o comando *`mountvol`* precisamos Executar como Administrador? Então, para que este arquivo de lotes seja executado sem erros, é preciso que ele esteja com privilégios de Administrador.
 * Selecione as opções "Executar estando o usuário conectado ou não" e "Executar com privilégios mais altos".
 * Ao pressionar OK, ele vai pedir que digite a senha do Administrador, digite a senha e pressione OK e depois OK novamente. <br> <img src='./img/img05.png'>
-### PRONTO, FINALMENTE O SEU PROCESSO DE BACKUP ESTÁ PRONTO.
+### PRONTO, FINALMENTE O SEU PROCESSO DE BACKUP ESTÁ CONCLUÍDO.
